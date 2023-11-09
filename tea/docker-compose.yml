@@ -1,0 +1,16 @@
+version: '3'
+services:
+  zov:
+    image: gitea/gitea:latest
+    environment:
+      - USER_UID=1000
+      - USER_GID=1000
+    volumes:
+      - ./gitea:/data
+    ports:
+      - "3000:3000"
+      - "22:22" 
+    networks:
+      - gitea-network
+networks:
+  gitea-network:

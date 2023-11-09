@@ -1,0 +1,284 @@
+    1  ls
+    2  cd ~
+    3  cd
+    4  node -v
+    5  git
+    6  ls
+    7  cdcd
+    8  cd ~
+    9  mkdir 66
+   10  ./mc 1
+   11  ./mc1
+   12  cd
+   13  ls
+   14  mkdir myrepo
+   15  ls
+   16  cd myrepo
+   17  ls
+   18  git inut https://github.com/groover616/lol.git
+   19  git init
+   20  git remote add origin https://github.com/groover616/lol.git
+   21  ls
+   22  touch test1.txt test2.txt test3.txt
+   23  git add .
+   24  git commit -m "Добавлены файлы test1 test2 и test3"
+   25  git add.
+   26  git add .
+   27  git commit -m "Добавлены файлы test1.txt, test2.txt и test3.txt"
+   28  git config --global user.email "evv357@gmail.com"
+   29  git config --global user.name "god"
+   30  git commit -m "Добавлены файлы test1.txt, test2.txt и test3.txt"
+   31  git status
+   32  git push origin master
+   33  git push origin master
+   34  git checkout -b users
+   35  # Создайте и добавьте файлы
+   36  touch user1.txt user2.txt user3.txt
+   37  git add .
+   38  git commit -m "Добавлены файлы user1.txt, user2.txt и user3.txt"
+   39  git push origin users
+   40  git checkout master
+   41  touch file1.txt file2.txt file3.txt\\
+   42  touch file1.txt file2.txt file3.txt
+   43  ls
+   44  rm file1.txt
+   45  ls
+   46  rm file2.txt
+   47  rm file3.txt
+   48  ls
+   49  git add .
+   50  git commit -m "Добавлены новые файлы file1.txt, file2.txt и file3.txt"
+   51  git push origin master
+   52  cd~
+   53  cd ~
+   54  l
+   55  sls
+   56  ls
+   57  rm myrepo
+   58  rm dir merepo
+   59  rm dir -m myrepo
+   60  rm dir 
+   61  ls
+   62  rmdir myrepo 
+   63  rmdir -p myrepo
+   64  rm -r myrepo
+   65  ls
+   66  csd
+   67  cd ~
+   68  ls
+   69  mkdir essy
+   70  cd essy
+   71  git add .
+   72  git commit -m "lflf"
+   73  git remote add origin https://github.com/groover616/essy.git
+   74  git remote add origin https://github.com/groover616/essy.git
+   75  git push origin https://github.com/groover616/essy.git
+   76  cd 
+   77  git remote add origin https://github.com/groover616/essy.git
+   78  git add .
+   79  git commit -m "123"
+   80  cd essy
+   81  git init
+   82  git commit "123)))"
+   83  git commit -m "123))"
+   84  git add . 
+   85  git commit -m "123)"
+   86  git status
+   87  git push origin master
+   88  git remote add origin https://github.com/groover616/essy.git
+   89  git push origin https://github.com/groover616/essy.git
+   90  git remote add origin https://github.com/groover616/essy.git
+   91  git status
+   92  git push
+   93  git init
+   94  git add .
+   95  git commit -m "123)"
+   96  git push origin master 
+   97  git push origin master https://github.com/groover616/essy.git
+   98  git remote add origin https://github.com/groover616/essy.git
+   99  git remote -v
+  100  ls
+  101  touch user1.txt
+  102  ls
+  103  ls
+  104  cd
+  105  cd 
+  106  ls
+  107  git push origin  
+  108  ды
+  109  ls
+  110  cd ~
+  111  git clone https://github.com/groover616/zxc.git
+  112  git remote -v
+  113  ls
+  114  cd zxc
+  115  git init
+  116  touch test1.txt
+  117  git add test1.txt
+  118  git commit -m "Добавлен файл test1.txt"
+  119  touch test2.txt
+  120  git add test2.txt
+  121  git commit -m "Добавлен файл test2.txt"
+  122  touch test3.txt
+  123  git add test3.txt
+  124  git commit -m "Добавлен файл test3.txt"
+  125  git push origin master
+  126  git status
+  127  git push origin master
+  128  git push origin main
+  129  git checkout -b users
+  130  touch user1.txt
+  131  touch user2.txt
+  132  touch user3.txt
+  133  git add user1.txt user2.txt user3.txt
+  134  git commit -m "Добавлены файлы user1.txt, user2.txt, user3.txt"
+  135  git push origin users
+  136  git checkout master
+  137  touch file1.txt
+  138  touch file2.txt
+  139  touch file3.txt
+  140  git add file1.txt file2.txt file3.txt
+  141  git commit -m "Добавлены файлы file1.txt, file2.txt, file3.txt"
+  142  git push origin master
+  143  git checkout users
+  144  git pull origin users
+  145  git checkout master
+  146  git checkout -b games
+  147  mkdir game1 game2 game3
+  148  touch game1/game1.sh
+  149  touch game2/game2.sh
+  150  touch game3/game3.sh
+  151  git add .
+  152  git commit -m "Добавлены папки с играми и файлами"
+  153  git push origin games
+  154  git checkout master
+  155  git checkout main
+  156  git merge games
+  157  git push origin master
+  158  git checkout users
+  159  git commit -m "Добавлены файлы для пользователей (#1)"
+  160  git checkout games
+  161  git commit -m "Добавлены файлы для игр (#2)"
+  162  git push origin users
+  163  git push origin games
+  164  ls
+  165  ls
+  166  docker pull nginx
+  167  ls
+  168* 
+  169  docker run nginx
+  170  docker run nginx -p 80:80
+  171  nginx -h
+  172  docker run nginx
+  173  docker zxc run -d nginx -p 80:80
+  174* docker run -d nginx
+  175  docker run -dp 80:80 nginx
+  176  docker run -dp 3000:3000 22:22 gitea
+  177  docker run -d -p 3000:3000 -p 22:22 gitea
+  178  docker run gitea
+  179  docker pull gitea
+  180  docker run -d -p 3000:3000 -p 22:22 gitea/gitea
+  181  docker ps
+  182  docker ps
+  183  docker build 
+  184  docker build --help
+  185  docker build nginx -f 
+  186  docker build nginx -f kaneki
+  187  docker build -t nginx 
+  188  docker image ls
+  189  mkdir nginx
+  190  cd nginx
+  191  ls
+  192  nano Dockerfile
+  193  LS
+  194  LS
+  195  cat Dockerfile
+  196  Docker build -t
+  197  Docker build -t nginx
+  198  Docker build -t Efimov_Voronin/ghoul
+  199  docker buildx -t Efimov/ghoul 
+  200  docker build -h
+  201  Docker build -t Efimov_Voronin/ghoul .
+  202  Docker build -t efimov_voronin/ghoul .
+  203* docker run 
+  204  docker run -dp 1488:4444 --name nginx efimov_voronin/ghoul 
+  205  nano Dockerfile 
+  206  docker build -t efim_voron .
+  207  nano Dockerfile
+  208  docker build -t efim_voron .
+  209  docker run -dp 1488:8888 nginx --name efim_voron
+  210  docker run -dp 1488:8888 --name efim_voron
+  211  docker run -dp 1488:8888 --name nginx efim_voron
+  212  docker container ls
+  213  nano Dockerfile
+  214  rm efim_voron 
+  215  ls
+  216  docker build -t efim_voron .
+  217  docker run -dp 1488:8888 --name nginx efim_voron
+  218  docker run -dp 1488:8888 --name nginx efim_voron
+  219  docker run -dp 1488:8888 --name nginx efim_voron
+  220  cat Dockerfile
+  221  nano Dockerfile
+  222  docker build -t efim_voron .
+  223  docker build -t efim_voron .
+  224  docker build -t efim_voron .
+  225  nano Dockerfile
+  226  docker build -t efim_voron .
+  227  nano Dockerfile
+  228  docker build -t efim_voron .
+  229  nano Dockerfile
+  230  y
+  231  nano Dockerfile
+  232  docker build -t efim_voron .
+  233  docker ps
+  234  docker run -dp 1488:8888 --name peremoga efim_voron
+  235  docker run -dp 1488:8888 --name peremoga efim_voron
+  236  docker --version
+  237  docker logs peremoga
+  238  nano Dockerfile
+  239  nano Dockerfile
+  240  docker logs peremoga
+  241  docker run -dp 1488:8888 --name peremoga efim_voron
+  242  docker build -t efim_voron .
+  243  docker run -dp 1488:8888 --name peremoga efim_voron
+  244  nano Dockerfile
+  245  docker build -t efim_voron .
+  246  docker run -dp 1488:8888 --name peremoga efim_voron
+  247  docker run -dp 80:1488 --name peremoga efim_voron
+  248  docker run -dp 80:80 --name peremoga efim_voron
+  249  nano Dockerfile
+  250  cd ..
+  251  mkdir tea
+  252  cd tea
+  253  nano Dockerfile
+  254  docker build -t efim_voron_tea .
+  255  docker run -dp 22:22 -p 3000:3000 --name zov efim_voron_tea
+  256  nano Dockerfile
+  257  docker logs zov
+  258  nano Dockerfile
+  259  docker build -t efim_voron_tea .
+  260  docker run -dp 22:22 -p 3000:3000 --name zov efim_voron_tea
+  261  docker run -dp 3000:3000 --name zov efim_voron_tea
+  262  docker logs zov
+  263  docker build -t efim_voron_tea .
+  264  history
+  265  rm Dockerfile 
+  266  ls
+  267  nano docker-compose.yml
+  268  docker-compose up -d
+  269  nano docker-compose.yml
+  270  nano docker-compose.yml
+  271  docker-compose up -d
+  272  cd .. 
+  273  ls
+  274  history
+  275  cat history > commands.txt
+  276  history
+  277  history > commands.txt
+  278  cat commands.txt
+  279  git init
+  280  ls
+  281  mkdir oktober 
+  282  cd oktover
+  283  cd oktober
+  284  history > command.txt
